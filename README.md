@@ -305,4 +305,9 @@ This project was built following the data cleaning methodology taught by **Alex 
 * **Complete SQL Pipeline:** Code for the full data cleaning script can be found in [`global_layoffs_cleaning.sql`](./global_layoffs_cleaning.sql).
 
 **Implemented By:** Umair Asad  
-🔗 [GitHub Portfolio](https://github.com/Umair-Asad2001) · ✉️ [Connect on LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/umair-data/))
+
+## 📬 Contact & Connect
+
+**Email:** [iam.umairasad@gmail.com](iam.umairasad@gmail.com)
+* **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+* **Location:** Wah Cantt, Pakistan *(Open to Relocation Opportunities)*
